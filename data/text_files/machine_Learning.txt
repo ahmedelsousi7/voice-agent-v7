@@ -1,0 +1,8 @@
+Machine learning (ML) is a subset of artificial intelligence (AI) that enables systems to learn, improve, and make predictions from data without explicit, step-by-step programming. By analyzing large datasets, algorithms identify patterns to create models, with performance enhancing as more data is consumed. 
+     Key aspects of machine learning include:
+     Core Types:
+    Supervised Learning: Algorithms learn from labeled training data to predict outcomes or classify information (e.g., spam detection).
+    Unsupervised Learning: Algorithms find hidden patterns or structures in unlabeled data (e.g., customer segmentation).
+    Reinforcement Learning: Agents learn to make decisions by performing actions and receiving rewards or penalties.
+    Workflow: Data is collected, preprocessed (cleaned), and fed into an algorithm to train a model, which is then used to make predictions on new data.
+    Applications: ML is used extensively in healthcare (disease diagnosis), finance (fraud detection), technology (recommendation engines, chatbots), and computer vision.
