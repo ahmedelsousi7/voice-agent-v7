@@ -22,12 +22,17 @@ This agent powered by LiveKit and Real-time model Gemini Live API.
 --- 
 # 🏗️🧠🔍📚 Architecture
 
+    Flow : 
+    
     When the user activates the microphone, 
-    audio is streamed via LiveKit to the Gemini Live API. 
-    Gemini performs real-time speech understanding and turn detection, 
-    decides when external knowledge is required, invokes the RAG system 
-    to retrieve relevant context, integrates that knowledge into its reasoning, 
-    and streams the final response back as audio — without any explicit STT or TTS layers.
+    audio is streamed via LiveKit to the Gemini 
+    Live API. Gemini performs real-time speech 
+    understanding and turn detection, decides when 
+    external knowledge is required, invokes the 
+    RAG system to retrieve relevant context, 
+    integrates that knowledge into its reasoning, 
+    and streams the final response back as 
+    audio — without any explicit STT or TTS layers.
  
 
 
